@@ -1,5 +1,5 @@
 #  💼 Content Management System
-#### _(Separate Dashboard for Admin and Client)_
+#### _(Developed separate Dashboard for Admin and Client)_
 > 
 > ## **_Admin Panel :_**
 > 
