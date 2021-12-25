@@ -1,0 +1,141 @@
+
+@font-face
+{
+	font-family: 'Quicksand-Regular';
+	src: url('Quicksand-Regular.otf');
+}
+body
+{
+	line-height: 2.5;
+}
+*
+{
+	box-sizing: border-box;
+}
+.uselo
+{
+    height: 56px;
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    background-color: #1d1c23;
+}
+span h1
+{
+    font-size: 16px;
+    margin-left: 46px;
+    margin-top: -25px;
+    margin-right: 15px;
+}
+.logo1
+{
+        color: #bfbebe;
+    float: right;
+    margin-top: 10px;
+    font-size: 32px;
+}
+#logo
+{
+        margin-left: 24px;
+    margin-bottom: -64px;
+    margin-top: 0px;
+    position: absolute;
+    z-index: 2;
+}
+body
+{
+	font-family: 'Quicksand-Regular';
+	background: #F4F6F9;
+
+}
+#sidemenu{
+	background-color: #302d43;
+	max-width: 280px;
+    height:759px;
+}
+i
+{
+    margin-right: 5px;
+}
+
+    nav{
+    	padding-top: 100px;
+    }
+
+    section nav	a{
+    		display: block;
+    		color:#FAF6F9;
+    		padding: 15px 30px;
+    	}
+        section nav a:hover
+        {
+            text-decoration-line: none;
+            color:#FAF6F9;
+        }
+
+    		a:focus  {
+    			background:#282639;
+    			border-left: 2px solid #92cf48;
+
+    		}
+    a:focus > i
+        {
+            color:#92cf48;
+        }
+
+section div h6
+{
+	    margin-top: 60px;
+
+}        
+.same
+{
+	
+	border-radius: 8px;
+	text-align: center;
+    padding-top: 6px;
+    color: #363232;
+    font-family: 'Quicksand-Regular';
+    font-size: 80px;
+    box-sizing: border-box;
+    height: 140px;
+    width: 140px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.one
+{
+	     background-image: linear-gradient(to right, #16BFFD , #CB3066);
+
+}
+.two
+{
+	     background-image: linear-gradient(to right, #8360c3 , #2ebf91);
+
+}
+.three
+{
+	 background-image: linear-gradient(to right, #654ea3 ,#eaafc8);
+}
+.four
+{
+		 background-image: linear-gradient(to right,#c0c0aa ,#1cefff);
+
+}
+#panelbar
+{
+	text-align: left;
+    width: 1178px;
+    color: #007bff;
+    padding-top: 10px;
+    padding-left: 43px;
+    margin-left: 322px;
+    border-radius: 8px;
+    height: 52px;
+    margin-bottom: 22px;
+    background-color: #e9ecef;
+}
+.extra
+{
+    padding-top: 356px;
+    padding-left: 307px;
+}
