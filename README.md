@@ -1,7 +1,7 @@
-[#](http://jetleads.freevar.com/admin/)  💼 Content Management System
+# 💼 Content Management System
 #### _(Developed separate Dashboard for Admin and Client)_
 > 
-> ## **_ [Admin Panel](#-client-panel) : _**
+> ## **_Admin Panel :_**
 > 
 > #### Link to Admin Panel : *http://jetleads.freevar.com/admin/*
 * ### Login Panel :
