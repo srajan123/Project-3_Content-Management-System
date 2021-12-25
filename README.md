@@ -7,14 +7,13 @@
 * ### Login Panel :
 > ![login panel](https://user-images.githubusercontent.com/38787963/147394301-f58cd5c6-69bf-4412-84a7-1acd79e56d34.PNG)
 * ### Only Admin can register company (As per client requirement) :
-![ad-reg](https://user-images.githubusercontent.com/38787963/147394762-725b8d3d-80a7-4972-a563-4a60419c68d5.PNG)
-
+>![ad-reg](https://user-images.githubusercontent.com/38787963/147394762-725b8d3d-80a7-4972-a563-4a60419c68d5.PNG)
 * ### Admin Dashboard UI :
 > ![jet-1-admin](https://user-images.githubusercontent.com/38787963/147394344-f16f1199-6280-4229-a7c6-21453db5016c.PNG)
 * ### Status for Active/Block users, Admin can Block/Unblock users as needed :
 >![ad-2](https://user-images.githubusercontent.com/38787963/147394378-1d51cec7-5089-4df5-9830-3f38de27df25.PNG)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#
 
 > ## **_Client Panel :_**
 >
